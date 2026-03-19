@@ -22,7 +22,7 @@ export default function Ficha() {
 
   return (
     <section id="ficha" className={styles.ficha}>
-      <img src="/imagens/foto_giliarde.jpeg" alt="Foto de Giliarde Rodrigues" className={styles.foto} />
+      <img src="./imagens/foto_giliarde.jpeg" alt="Foto de Giliarde Rodrigues" className={styles.foto} />
       <h1 className={styles.nome}>Giliarde Rodrigues</h1>
 
       <div className={styles.social}>

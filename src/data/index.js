@@ -35,8 +35,8 @@ export const projetos = [
     descricao: 'API de gerenciamento de estoque com autenticação JWT e CRUD completo de produtos.',
     detalhes:
       'O projeto Estoque de Loja é uma API REST desenvolvida com Node.js, Express e MySQL. Possui sistema de autenticação com JWT e criptografia de senhas com bcrypt, rotas protegidas por middleware, CRUD completo de produtos com filtro por categoria e paginação de resultados. A API está hospedada na Railway e pronta para consumo em produção.',
-    imagem: './imagens/estoque-de-loja.jpeg',
-    linkDemo: 'https://giliarder1994.github.io/projeto-rede-sociais/',
+    imagem: './imagens/Projeto API REST - Estoque de Loja.jpeg',
+    linkDemo: './imagens/Projeto API REST - Estoque de Loja.jpeg',
     linkCodigo: 'https://github.com/giliarder1994/Estoque_de_Loja_-_CRUD_de_produtos'
   },
   {

@@ -45,8 +45,8 @@ export const projetos = [
   descricao: 'Backend de controle financeiro pessoal com autenticação JWT, CRUD de transações e resumo financeiro via SQL.',
   detalhes:
     'O Dashboard Financeiro é uma API REST desenvolvida com Node.js, Express e MySQL. O backend conta com autenticação JWT, criptografia de senhas com bcrypt e rotas protegidas por middleware. Possui CRUD completo de transações e categorias (receita/despesa), filtro por tipo, paginação de resultados e dois endpoints de análise financeira: um resumo geral de saldo calculado com SQL CASE WHEN, e um relatório mensal agrupado por mês. O frontend foi desenvolvido em React com Vite.',
-  imagem: './imagens/dashboard-financeiro.jpeg',
-  linkDemo: '',
+  imagem: './imagens/projeto API REST - Dashboard Financeiro.png',
+  linkDemo: './imagens/projeto API REST - Dashboard Financeiro.png',
   linkCodigo: 'https://github.com/giliarder1994/dashboard-financeiro',
 },
 ];
